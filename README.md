@@ -47,7 +47,7 @@ This script merges the location data onto the schedule DataFrame. It adds inform
 
 ## Outputs
 
-The scripts generate a set of CSV, pickle, and PNG files which are labeled by team and year. They all save to the "outputs" folder. Information about miles traveled and carbon emitted is printed when you run the scripts.
+The scripts generate a set of CSV, pickle, and PNG files which are labeled by team and year. They all save to the "outputs" folder. The "outputs" folder currently holds only information from the teams script as well as data about the New York Mets (NYM) in 2022 and 2024. If you run the scripts for different teams, their graphs and CSV files will populate to the "outputs" folder. Information about miles traveled and carbon emitted is printed when you run the scripts.
 
 ## Findings
 
