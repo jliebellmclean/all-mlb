@@ -8,6 +8,10 @@ The rule change has been a pet peeve of mine. For two years, I railed against it
 
 This project seeks to answer the question: **how has the schedule change impacted MLB teams in terms of the number of series they play, who they play against, and how much they travel?** 
 
+![map](./inputs/map_with_stadiums.png)
+
+Above is an image, generated in QGIS, of all 30 MLB team stadiums graphed on a map of the United States. It gives you a sense of how some stadiums are clustered, and others, like the Colorado Rockies, are far from many other parks.
+
 ## Inputs
 
 All of the data is available publicly on the web. All season data comes from [Baseball Reference](https://www.baseball-reference.com/), which is the preeminent website for finding information on baseball teams and players. CSV files with team data for given year are found in the "season_data" folder.
